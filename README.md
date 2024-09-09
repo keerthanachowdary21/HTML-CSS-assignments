@@ -43,7 +43,7 @@ them, add text and button over image in center follow the folder structure
 - Text, Font, Icon, Display, Overflow
 - Position, Combinators
 - Pseudo Class & Elements, Opacity
-  -- Task: practice anchor tag styling, read about placeholder pseudo element
+  - Task: practice anchor tag styling, read about placeholder pseudo element
 
 
 
